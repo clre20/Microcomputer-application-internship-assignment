@@ -1,1 +1,1 @@
-# Microcomputer-application-internship-assignment-
+#微電腦應用實習 影響辨識作業
